@@ -163,3 +163,4 @@ For more information on SemVer, please visit <http://semver.org/>.
 ## Copyright and license
 
 Copyright 2013 Twitter, Inc under [the Apache 2.0 license](LICENSE).
+https://www.codeship.io/projects/bd48e820-77ea-0131-3fa4-6ea18949c010/status
